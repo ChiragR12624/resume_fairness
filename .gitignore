@@ -1,7 +1,34 @@
+# =========ø============
+# Python & Environment
+# =====================
 venv/
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
-data/*.csv
-models/
 .env
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Data
+# =====================
+# Ignore all CSVs except sample and cleaned
+data/*.csv
+!data/sample_cleaned_resumes.csv
+!data/cleaned_resumes.csv
+
+# =====================
+# Models
+# =====================
+# Ignore everything in models but allow JSON
+models/*
+!models/*.json
+
+# =====================
+# Reports, Scripts, Notebooks (keep them all)
+# =====================
+!reports/
+!scripts/
+!notebooks/
