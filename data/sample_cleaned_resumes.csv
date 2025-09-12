@@ -1,0 +1,21 @@
+candidate_id,gender,ethnicity,education,years_experience,skills,label,skills_list,num_skills,skills_text
+1860,female,groupA,bachelors,17,pressure;should;near;believe,1,"['pressure', 'should', 'near', 'believe']",4,pressure should near believe
+353,male,groupA,masters,9,bring;property;rich;traditional,1,"['bring', 'property', 'rich', 'traditional']",4,bring property rich traditional
+1333,male,groupA,phd,9,mission;it;some;after,0,"['mission', 'it', 'some', 'after']",4,mission it some after
+905,female,groupA,bachelors,20,together;nation;stay;direction,1,"['together', 'nation', 'stay', 'direction']",4,together nation stay direction
+1289,female,groupB,phd,16,particular;eight;drive;evidence,1,"['particular', 'eight', 'drive', 'evidence']",4,particular eight drive evidence
+1273,unknown,groupA,bachelors,11,add;house;building;response,0,"['add', 'house', 'building', 'response']",4,add house building response
+938,female,groupA,phd,5,yourself;care;nothing;site,1,"['yourself', 'care', 'nothing', 'site']",4,yourself care nothing site
+1731,female,groupB,phd,6,present;travel;speak;dark,0,"['present', 'travel', 'speak', 'dark']",4,present travel speak dark
+65,male,groupA,bachelors,17,away;second;parent;beyond,1,"['away', 'second', 'parent', 'beyond']",4,away second parent beyond
+1323,male,groupA,masters,9,small;ago;affect;note,0,"['small', 'ago', 'affect', 'note']",4,small ago affect note
+56,male,groupA,bachelors,16,start;real;couple;participant,1,"['start', 'real', 'couple', 'participant']",4,start real couple participant
+1292,unknown,groupC,phd,10,control;door;onto;sometimes,1,"['control', 'door', 'onto', 'sometimes']",4,control door onto sometimes
+1118,female,groupA,bachelors,11,role;course;cut;head,1,"['role', 'course', 'cut', 'head']",4,role course cut head
+584,male,groupA,masters,3,better;letter;rather;note,0,"['better', 'letter', 'rather', 'note']",4,better letter rather note
+374,male,groupA,masters,3,protect;source;key;role,1,"['protect', 'source', 'key', 'role']",4,protect source key role
+275,male,groupA,masters,9,tell;certainly;security;upon,1,"['tell', 'certainly', 'security', 'upon']",4,tell certainly security upon
+746,female,groupA,phd,4,office;speech;strong;lawyer,1,"['office', 'speech', 'strong', 'lawyer']",4,office speech strong lawyer
+128,unknown,groupA,masters,4,sport;well;heavy;fight,1,"['sport', 'well', 'heavy', 'fight']",4,sport well heavy fight
+1646,female,groupB,phd,9,friend;left;yes;never,1,"['friend', 'left', 'yes', 'never']",4,friend left yes never
+1852,male,groupA,masters,13,foot;late;behind;off,1,"['foot', 'late', 'behind', 'off']",4,foot late behind off
