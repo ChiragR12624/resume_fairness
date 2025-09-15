@@ -1,4 +1,4 @@
-AutoResume — Bias detection & mitigation in resume screening
+ResumeFairness — Bias detection & mitigation in resume screening
 
 An explainable resume-screening pipeline that detects gender bias and applies mitigation (post-processing) to improve fairness while preserving predictive performance.
 
