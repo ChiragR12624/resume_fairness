@@ -2,6 +2,8 @@ ResumeFairness — Bias detection & mitigation in resume screening
 
 An explainable resume-screening pipeline that detects gender bias and applies mitigation (post-processing) to improve fairness while preserving predictive performance.
 
+“This project investigates bias in machine learning models for resume screening, evaluates fairness using standard metrics, and applies algorithmic debiasing techniques to improve equity in automated hiring decisions.” 
+
 Quick results
 - Dataset: `data/sample_cleaned_resume.csv`
 - Main model: `<model architecture / name>`  
