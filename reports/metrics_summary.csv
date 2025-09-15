@@ -1,0 +1,5 @@
+Method,Metric,Value
+Baseline,Accuracy,0.82
+Baseline,Fairness,0.61
+ThresholdOptimizer,Accuracy,0.8
+ThresholdOptimizer,Fairness,0.91

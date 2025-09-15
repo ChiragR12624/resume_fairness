@@ -1,34 +1,37 @@
-# =========ø============
-# Python & Environment
-# =====================
-venv/
+# Python cache & venv
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+venv/
 .env
 
-# =====================
-# Jupyter
-# =====================
+# Jupyter checkpoints
 .ipynb_checkpoints/
 
-# =====================
-# Data
-# =====================
-# Ignore all CSVs except sample and cleaned
-data/*.csv
-!data/sample_cleaned_resumes.csv
-!data/cleaned_resumes.csv
+# System files
+.DS_Store
 
-# =====================
-# Models
-# =====================
-# Ignore everything in models but allow JSON
+# Data — ignore big/raw files, but keep sample CSV
+data/*
+!data/sample_cleaned_resume.csv
+
+# Models — ignore big binaries, but keep folder + small demos
 models/*
-!models/*.json
+!models/.gitkeep
 
-# =====================
-# Reports, Scripts, Notebooks (keep them all)
-# =====================
-!reports/
-!scripts/
-!notebooks/
+# Reports — keep final report, metrics, screenshots
+reports/*
+!reports/final_report.pdf
+!reports/metrics_summary.csv
+!reports/dashboard_screenshots/*
+!reports/.gitkeep
+
+# Notebooks — keep all
+# (no ignore, because we want them tracked)
+
+# Viz — keep Streamlit/Plotly code
+# (no ignore)
+
+# Logs
+*.log

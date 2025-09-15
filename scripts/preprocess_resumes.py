@@ -7,7 +7,7 @@ import os
 
 print("Current working directory:", os.getcwd())
 print("Files in data/:", os.listdir("data"))
-print("✅ File exists?", os.path.exists("data/cleaned_resumes.csv"))
+
 
 
 # 1) Load dataset
@@ -51,6 +51,7 @@ df['skills_text'] = df['skills_list'].apply(lambda lst: " ".join(lst))
 
 # 5) Save cleaned dataset
 df.to_csv("../data/cleaned_resumes.csv", index=False)
+print("✅ File exists?", os.path.exists("data/cleaned_resumes.csv"))
 print("✅ Cleaned dataset saved to data/cleaned_resumes.csv")
 
 # 6) Save top-K skill vocabulary (optional)
