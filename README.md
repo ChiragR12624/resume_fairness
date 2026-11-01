@@ -1,17 +1,17 @@
 # Fairness-Aware Machine Learning Framework for Bias Mitigation in AI-Driven Recruitment Systems
 
-\<p align="center">
-&#x20; \<b>Investigating Algorithmic Bias and Promoting Responsible AI in Automated Recruitment\</b>
-\</p>
+<p align="center">
+  <b>Investigating Algorithmic Bias and Promoting Responsible AI in Automated Recruitment</b>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.10+-blue?logo=python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)" />
-&#x20; \<img src="[https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)" />
-&#x20; \<img src="[https://img.shields.io/badge/Fairlearn-Fairness%20Evaluation-green](https://img.shields.io/badge/Fairlearn-Fairness%20Evaluation-green)" />
-&#x20; \<img src="[https://img.shields.io/badge/IBM-AIF360-purple](https://img.shields.io/badge/IBM-AIF360-purple)" />
-&#x20; \<img src="[https://img.shields.io/badge/Research-Published-success](https://img.shields.io/badge/Research-Published-success)" />
-&#x20; \<img src="[https://img.shields.io/badge/License-MIT-lightgrey](https://img.shields.io/badge/License-MIT-lightgrey)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange" />
+  <img src="https://img.shields.io/badge/Fairlearn-Fairness%20Evaluation-green" />
+  <img src="https://img.shields.io/badge/IBM-AIF360-purple" />
+  <img src="https://img.shields.io/badge/Research-Published-success" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+</p>
 
 ## 1. Research Overview
 
